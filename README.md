@@ -1,1 +1,1 @@
-"# CSCI4830_Wallace" 
+CSCI 4830 Project
